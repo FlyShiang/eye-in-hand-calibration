@@ -1,0 +1,7 @@
+#ifndef _VERSION_H_
+#define _VERSION_H_
+
+#define dTHE_VERSION_MAJOR @THE_VERSION_MAJOR@
+#define dTHE_VERSION_MINOR @THE_VERSION_MINOR@
+
+#endif
